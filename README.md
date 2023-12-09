@@ -23,6 +23,4 @@ Classic Tic Tac Toe game for two players. Test your strategy and outsmart your o
 
 ### 9. Snake
 
-### 10. Hangman
-
-## How to 
+### 10. Hangman 
